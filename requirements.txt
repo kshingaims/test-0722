@@ -1,0 +1,2 @@
+flask
+azure-storage-blob==12.26.0
